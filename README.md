@@ -29,7 +29,7 @@ pandas
 scikit-learn
 How to Run
 Clone the repository:
- 
+https://github.com/Rajivi024/machinelearning_assignment.git 
 
 Install dependencies:
 pip install -r requirements.txt
